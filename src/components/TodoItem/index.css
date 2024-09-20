@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.text-container {
+  display: flex;
+}
+.delete-button {
+  background-color: #ffc2a0;
+  align-self: center;
+}
